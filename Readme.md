@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александра Леонова](https://up.htmlacademy.ru/javascript/9/user/45442).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Сафин](https://htmlacademy.ru/profile/id45991).
 
 ---
 
